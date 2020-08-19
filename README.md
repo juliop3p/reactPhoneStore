@@ -6,6 +6,9 @@
 
 [click here to see the project on youtube](https://www.youtube.com/watch?v=-edmQKcOW8s)
 
+**see the project**
+[click here to see the project on web](https://react-phone-store-julio.netlify.app/)
+
 **#ReactJS #Bootstrap #ContextAPI**
 
 # Home Page
